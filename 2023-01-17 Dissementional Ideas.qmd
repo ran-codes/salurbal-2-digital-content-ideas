@@ -1,0 +1,84 @@
+---
+title: "SALURBAL Dissemination Ideas"
+subtitle: 'SALURBAL II Planning Meeting - Data dashboard and other dissemination'
+author: "Ran Li, Usama Bilal"
+format: 
+  revealjs: 
+    theme: default
+    self-contained: true
+editor: visual
+---
+
+## Overview
+
+-   Intro
+
+-   Automated Reports
+
+-   Dashboards
+
+-   Long form Visualizations
+
+-   Interactive data driven blogs
+
+## Intro
+
+Thinking web first and why its important
+
+::: incremental
+-   Traditional academia, peer review journals are ideas are exchanged but for non-academics the internet is how ideas are exchanged.
+-   To increase impact we have to be able to share our ideas and data via the internet.
+-   What could SALURBAL II digital content look like?
+-   How do we do this?
+:::
+
+## Digital Content: industry trends
+
+Data driven story telling has seen a recent boom. Examples include:
+
+::: incremental
+-   New York Times Interactives
+-   Bloomberg graphics
+-   Teuters Graphics
+-   The Atlantic Graphics
+:::
+
+## Ideas for SALURBAL II
+
+-   Long form visualization
+    -   for telling stories
+    -   for explaining models
+-   Interactive blogs
+-   Automated Reports
+-   Dashboards
+
+## Long form visualization (story)
+
+insert example here
+
+## Long form visualization (methods)
+
+insert example here
+
+## Interactive blogs
+
+insert example here
+
+## Automated Reports
+
+insert example here
+
+## Dashboards
+
+insert example here
+
+## How do we do this?
+
+To build web first content, SALURBAL needs two things
+
+-   FAIR/machine-actionable data infrastructure
+-   Workflows for generating content:
+    -   SALURBAL data platform for a centralized location to host or route to digital resources
+    -   Ideation to product pipeline: Idea -\> Design -\> Engineering
+    -   decentralized analyst level content generation and hosting via statci websites
+    -   Adopt existing open-source, multi-lingual web-first tools such as Quarto and Shiny.
