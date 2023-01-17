@@ -2,26 +2,22 @@
 title: "SALURBAL Dissemination Ideas"
 subtitle: 'SALURBAL II Planning Meeting - Data dashboard and other dissemination'
 author: "Ran Li, Usama Bilal"
-format: 
-  revealjs: 
+# format: pptx
+format:
+  revealjs:
     theme: default
     self-contained: true
 editor: visual
 ---
 
-## Overview
+## Overview {.smaller}
 
--   Intro
+- Intro
+- Examples of potential content
+- Potential next steps
+- Context within SALURBAL II aims
 
--   Automated Reports
-
--   Dashboards
-
--   Long form Visualizations
-
--   Interactive data driven blogs
-
-## Intro
+## Intro {.smaller}
 
 Thinking web first and why its important
 
@@ -32,47 +28,74 @@ Thinking web first and why its important
 -   How do we do this?
 :::
 
-## Digital Content: industry trends
+## Digital Content: industry trends {.smaller .scrollable}
 
 Data driven story telling has seen a recent boom. Examples include:
 
-::: incremental
--   New York Times Interactives
--   Bloomberg graphics
--   Teuters Graphics
--   The Atlantic Graphics
+::: columns
+-   New York Times Graphics
+-   Bloomberg Graphics
+-   Reuters Graphics
+
+::: {.column width="100%"}
+::: panel-tabset
+
+### NYT
+
+![](images/image-236480019.png)
+
+### Bloomberg
+
+![](images/image-1514986386.png)
+
+Content for `Tab B`
+
+### Reuters
+
+![](images/image-489945133.png)
+:::
+:::
 :::
 
-## Ideas for SALURBAL II
+## Ideas for SALURBAL II {.smaller}
 
 -   Long form visualization
     -   for telling stories
     -   for explaining models
 -   Interactive blogs
--   Automated Reports
+-   City Profiles + Automated Reports
 -   Dashboards
 
-## Long form visualization (story)
+## Long form visualization (story) {.smaller}
 
-insert example here
+![](images/image-871546344.png)
 
-## Long form visualization (methods)
+[Preview here](https://pudding.cool/projects/heat-records/){preview-link="true"}
 
-insert example here
+## Long form visualization (methods) {.smaller}
 
-## Interactive blogs
+![](images/image-565701922.png)
 
-insert example here
+[Preview here](https://pair.withgoogle.com/explorables/hidden-bias/){preview-link="true"}
 
-## Automated Reports
+## Interactive blogs {.smaller}
 
-insert example here
+![](images/image-63602388.png)
 
-## Dashboards
+[Preview here](https://pudding.cool/projects/flooding/visuals/){preview-link="true"}
 
-insert example here
+## City Profiles {.smaller}
 
-## How do we do this?
+![](images/image-83481932.png)
+
+## Dashboards {.smaller}
+
+![](images/image-1428825056.png)
+
+[Preview here](https://ambitiontoaction.net/scan_tool/){preview-link="true"}
+
+
+## How do we do this? {.smaller}
 
 To build web first content, SALURBAL needs two things
 
@@ -82,3 +105,5 @@ To build web first content, SALURBAL needs two things
     -   Ideation to product pipeline: Idea -\> Design -\> Engineering
     -   decentralized analyst level content generation and hosting via statci websites
     -   Adopt existing open-source, multi-lingual web-first tools such as Quarto and Shiny.
+
+
